@@ -74,12 +74,17 @@ If you're building PDD into an AI agent's workflow:
 
 ## Using PDD
 
-### As a SKILL.md (Claude Code / Hermes)
+### Install from skills.sh
+
+```bash
+npx skills add rayoplateado/pride-driven-development
+```
+
+### Manual install (Claude Code / Hermes)
 
 Copy [`SKILL.md`](./SKILL.md) into your skills directory:
 
 ```bash
-# Claude Code / Hermes
 cp SKILL.md ~/.hermes/skills/software-development/pride-driven-development/SKILL.md
 ```
 
