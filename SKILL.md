@@ -1,5 +1,5 @@
 ---
-name: pride-driven-development
+name: pdd
 version: 1.0.0
 description: "PDD — a self-review philosophy for AI coding agents. Before declaring work done, the agent asks itself: would I be proud of this? Not a checklist — a mindset."
 author: rayoplateado
